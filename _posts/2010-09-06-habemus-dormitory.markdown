@@ -1,0 +1,30 @@
+---
+author: napbuf
+comments: true
+date: 2010-09-06 12:55:45+00:00
+layout: post
+slug: habemus-dormitory
+title: Habemus dormitory!!!
+wordpress_id: 125
+categories:
+- Xina
+- 'Xina: Beijing: Primers dies'
+---
+
+Ja tinc allotjament!!! Per fi! Avui una de cal y una de arena però la balança guanya més cap als aspectes pràctics i positius que cap als negatius. Per una banda ja tinc on viure i he pogut alliberar el mòvil (amb lo qual només em queda comprar-me una tarjeta sim i llestos, però això ho puc fer sense que m'entenguin així que cap problema!), i per l'altre... doncs que tinc una ungla menys L. Mentre movia els mobles de la meva nova habitació m'ha caigut una mena de tamboret d'aquests bèsties que pesen un mort a sobre el peu, i després netejar amb aigua el peu he pogut veure que alguna cosa fallava... M'he tornat  a posar l'ungla a lloc, i de moment encara la tinc, però ja la dono per perduda... aixxxx i mira que no portar tirites!!! Tinc compeeds però potser és millor que ara (després de més de 4h) que ha deixat de sagnar, ho deixi que s'assequi.
+
+Però weno, anem a les coses interessants!
+
+Ahir vaig conèixer la Rita, una noia de Barcelona que ja fa temps que va estar a Beijing i ara hi ha tornat per ampliar el seu xinès. Vaig provar la birra xinesa (i val a dir que és molt semblant a una Coronita o a una Heineken, o sigui que molt suau) i em va ensenyar un llac que hi ha al costat d'on visc que ni havia vist, i és preciós!! Em recorda als llacs que hi ha al mig dels parcs de Londres. Tot plegat molt romàntic... Beijing té llocs amagats! Això és perquè aquí al mig de la ciutat encara hi ha el què es diuen els "Hutongs", que són els antics barris xinesos, fets amb casetes súper petites (més aviat xaboles) que no disposen de res, ni tan sols de lavabos. Dins dels Hutongs hi ha unes cases pintades de groc que són els lavabos públics. Té el seu encant caminar-hi. Ahir durant el dia vaig anar a caminar per alguns d'ells, tot i que no m'hi vaig parar massa perquè anava amb la reflex i el portàtil a sobre i tenia por que anant jo sola em passés alguna cosa, però la Rita em va dir que no he de patir perquè m'atraquin, només perquè m'estafin!! Doncs els Hutongs tenen els dies contats, perquè ara es porten els grans edificis de 50.000 plantes (de fet, jo viuré en un que té 20 pisos i viuré en el 15, sort que no tinc vertigen perquè les vistes són increïbles!), i ara conviuen enmig de la ciutat els grans gratacels, les zones occidentalitzades i els petits Hutongs i els parcs. Pots anar per un carrer, girar i a la cantonada trobar-te amb una Beijing completament diferent. I té el seu encant, posar-te a caminar i descobrir els carrers de Beijing. El problema és que és tan gran que no sé per on començar!!
+
+La Rita sap moltíssimes coses sobre la cultura i la llengua xina, i me'n va donar 5 cèntims, però el cert és que tinc memòria de peix, m'hauré d'acostumar a escriure el què m'expliquen...
+
+I res, avui he anat a la uni per fer la matrícula però m'han dit que fins la setmana que ve res. Ni matrícula, ni tutor, ni projecte... Toca esperar... De totes maneres, he anat a mirar com estava la residència i he parlat amb el noi que ho porta. Al final m'ha convençut i a partir de demà viuré allà. He agafat una habitació doble però sense compartir. El tema és que pagaré el doble, però el doble em costa 130€/mes. I crec que m'anirà bé tenir un espai més personal enmig de tanta novetat. Almenys per poder estudiar, descansar i fer el què vulgui!!! L'habitació és enorme, tinc 2 llits (que en faré 1 de matrimoni), 2 armaris (muahahaaaaaaa ara ja puc començar a comprar roba!!) i 2 tauletes. També tinc un lavabo per mi sola. A part, comparteixo nevera i microones amb una noia tailandesa que s'estarà a l'habitació del costat. També hi tinc Internet i electricitat tot i que ho he de pagar apart, però m'han comentat que és molt barato. Quan pugui penjaré les fotos. Demà tocarà netejar-ho tot i personalitzar-ho una mica. Allà a la residència he conegut el Fernando, un noi de Madrid que marxa d'aquí 5 dies. M'ha donat 4 consells i hem quedat demà per dinar. M'ha dit que Déu ni do la gent espanyola que hi ha a Beihang, així que hauré d'anar a conèixer-los!!
+
+I res, poca cosa més perquè quan m'ha caigut l'armari m'ha destirotat tots els plans. Ara ja soc a l'hostal, preparant les coses per marxar demà a primera hora. I gràcies a l'Uri, ja tinc el mòvil lliure!!! Demà compraré la targeta i llestos. Sinó, segur que m'haurien estafat al comprar el mòvil. Sembla que tot es va posant a lloc.
+
+Avui a l'entrar al metro ja ni em sentia observada... Ara ja soc una més J Suposo que sempre ho he estat, però els primers dies tens la sensació que tothom t'està mirant. A Barcelona pocs cops creu-ho les mirades amb la gent. Aquí és aixecar la mirada i veure que tothom a qui miro m'està mirant, però avui ja no he tingut tant aquesta sensació com els primers dies. També és curiós que per entrar al metro et fan passar el bolso o qualsevol equipatge de mà per una màquina de rajos X, com en els aeroports!! I confirmo la típica imatge dels metros xinesos a hora punta. Horribles!!!! I això que encara no ha començat el curs escolar... Si em queixava del metro de Barcelona, heu d'entrar al de Beijing en hora punta. No hi cap ni una agulla!!! Ah i per cert, continuo sent baixeta fins i tot a Xina L. Me n'he adonat al metro... Sí que hi ha gent de la meva alçada, sobretot noies, però continuo fent baixar la mitja més que pujar-la.
+
+El proper objectiu és comprar-me una bicicleta per no haver de dependre del metro. Però primer m'he d'informar d'on comprar-la i dels preus, abans no me la fotin!
+
+Apa, moltes gràcies per estar aquí!!!! S'agraeix moltíssim estant tan lluny i sense entendre res de res!!! Espero que quan comenci el curs de xinès, que seran 4h al dia (20h a la setmana), la cosa millori ràpidament. El Fernando ja m'ha dit que a ell l'hi va anar de conya, tot i que és molt dur perquè és el projecte, les 4h de classe i tot l'estudi fora de classe... Però almenys els 2 o 3 primers mesos m'ha aconsellat que ho faci, així que ho intentaré.

@@ -1,0 +1,21 @@
+---
+author: napbuf
+comments: true
+date: 2010-03-20 06:48:22+00:00
+layout: post
+slug: hola
+title: Hola!!!
+wordpress_id: 1
+categories:
+- Blog
+- Calaix desordenat
+---
+
+[![](https://napbuf.files.wordpress.com/2010/03/hello-world.jpg)](https://napbuf.files.wordpress.com/2010/03/hello-world.jpg)
+
+La primera entrada del blog!!
+
+La idea d'aquest bloc és poder escriure tot el què em va passant o tot el què tingui necessitat d'explicar. Segur que ni tot el què em passi quedarà escrit ni tot el què escrigui quedarà fet, però aquesta és la màgia dels somnis, no? I per alguna cosa el blog porta aquest nom.
+
+De totes maneres, i sense pretensió de fer-me l'interessant amb aquests darrer comentari, espero que aquest blog tingui continuïtat!! Ara per ara, el blog ha nascut... només falta veure fins a on és capaç d'arribar, així que caldrà alimentar-lo bé i cuidar-lo!
+
