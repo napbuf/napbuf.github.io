@@ -1,0 +1,15 @@
+# Site settings
+title: Napbuf Blog
+email: lauraponslloret@gmail.com
+description: "Enèsim intent de migrar el blog de wordpress: Viatge al País dels Somnis - diari d'una vida, i més!"
+baseurl: "/startbootstrap-clean-blog-jekyll"
+url: "http://napbuf.es"
+twitter_username: none
+github_username:  napbuf
+facebook_username:  Laura Pons Lloret
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
