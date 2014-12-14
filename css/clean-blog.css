@@ -41,7 +41,7 @@ hr.small {
   border-color: white;
 }
 .navbar-custom {
-  background: black;
+  background: white;
   position: absolute;
   top: 0;
   left: 0;
@@ -64,7 +64,7 @@ hr.small {
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: white;
+    color: black;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -72,7 +72,7 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: black;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
