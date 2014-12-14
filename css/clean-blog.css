@@ -135,12 +135,12 @@ hr.small {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
-  padding: 50px 0 50px;
+  padding: 30px 0 50px;
   color: white;
 }
 @media only screen and (min-width: 768px) {
@@ -171,11 +171,11 @@ hr.small {
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
-    font-size: 20px;
+    font-size: 80px;
   }
 }
 .intro-header .post-heading h1 {
-  font-size: 15px;
+  font-size: 35px;
 }
 .intro-header .post-heading .subheading,
 .intro-header .post-heading .meta {
@@ -199,10 +199,10 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
-    font-size: 25px;
+    font-size: 55px;
   }
   .intro-header .post-heading .subheading {
-    font-size: 20px;
+    font-size: 30px;
   }
 }
 .post-preview > a {
