@@ -1,54 +1,83 @@
 ---
-layout: page
+layout: map_template
 title: "Amunt amunt..."
 description: "Volant alt :)"
-header-img: "img/contact-bg.jpg"
 ---
-<!DOCTYPE HTML>
-<html>
-  <head>
-    <script src="http://www.webglearth.com/v2/api.js"></script>
-    <script>
-      function initialize() {
-        var earth = new WE.map('earth_div');
-        earth.setView([46.8011, 8.2266], 2);
-        WE.tileLayer('http://data.webglearth.com/natural-earth-color/{z}/{x}/{y}.jpg', {
-          tileSize: 256,
-          bounds: [[-85, -180], [85, 180]],
-          minZoom: 0,
-          maxZoom: 16,
-          attribution: 'WebGLEarth example',
-          tms: true
-        }).addTo(earth);
-      }
-    </script>
-    <style type="text/css">
-      html, body{padding: 0; margin: 0;}
-      #earth_div{top: 0; right: 0; bottom: 0; left: 0;
-                 position: absolute !important;
-                 background-image: -webkit-gradient(
-                   linear,
-                   left bottom,
-                   left top,
-                   color-stop(0, rgb(253,253,253)),
-                   color-stop(0.15, rgb(253,253,253)),
-                   color-stop(0.53, rgb(223,223,223)),
-                   color-stop(0.56, rgb(255,255,255)),
-                   color-stop(1, rgb(253,253,253))
-                   );
-                 background-image: -moz-linear-gradient(
-                   center bottom,
-                   rgb(253,253,253) 0%,
-                   rgb(253,253,253) 15%,
-                   rgb(223,223,223) 53%,
-                   rgb(255,255,255) 56%,
-                   rgb(253,253,253) 100%
-                   );
-      }
-    </style>
-    <title>WebGL Earth API: Custom Tiles</title>
-  </head>
-  <body onload="initialize()">
-    <div id="earth_div"></div>
-  </body>
-</html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description }}">
+
+  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Bootstrap Core CSS -->
+  <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{ "/css/clean-blog.css" | prepend: site.baseurl }}">
+
+  <!-- Custom Fonts -->
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+
+  <script src="http://www.webglearth.com/v2/api.js"></script>
+  <script>
+    function initialize() {
+      var earth = new WE.map('earth_div');
+      earth.setView([46.8011, 8.2266], 2);
+      WE.tileLayer('http://data.webglearth.com/natural-earth-color/{z}/{x}/{y}.jpg', {
+        tileSize: 256,
+        bounds: [[-85, -180], [85, 180]],
+        minZoom: 0,
+        maxZoom: 16,
+        attribution: 'WebGLEarth example',
+        tms: true
+      }).addTo(earth);
+    }
+  </script>
+  <style type="text/css">
+    html, body{padding: 0; margin: 0;}
+    #earth_div{top: 0; right: 0; bottom: 0; left: 0;
+               position: absolute !important;
+               background-image: -webkit-gradient(
+                 linear,
+                 left bottom,
+                 left top,
+                 color-stop(0, rgb(253,253,253)),
+                 color-stop(0.15, rgb(253,253,253)),
+                 color-stop(0.53, rgb(223,223,223)),
+                 color-stop(0.56, rgb(255,255,255)),
+                 color-stop(1, rgb(253,253,253))
+                 );
+               background-image: -moz-linear-gradient(
+                 center bottom,
+                 rgb(253,253,253) 0%,
+                 rgb(253,253,253) 15%,
+                 rgb(223,223,223) 53%,
+                 rgb(255,255,255) 56%,
+                 rgb(253,253,253) 100%
+                 );
+    }
+  </style>
+  <title>WebGL Earth API: Custom Tiles</title>
+</head>
+<body onload="initialize()">
+  {% include nav.html %}
+
+  <div id="earth_div"></div>
+
+  {% include footer.html %}
+
+</body>
